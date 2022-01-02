@@ -11,7 +11,11 @@ Our [paper](https://aclanthology.org/2021.fever-1.9.pdf) presents results for tw
 
 To replicate the media-seperated split, use the following sources for testing and remove them from the training set:
 
-- 
+- Sueddeutsche
+- FreieWelt
+- Compact-Online
+- Kopp-Report
+- AnonymousNews
 
 
 
