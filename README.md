@@ -8,9 +8,9 @@ For questions, please write an e-mail to justus.mattern@rwth-aachen.de
 
 ### Training Splits
 
-Our [paper](https://aclanthology.org/2021.fever-1.9.pdf) presents results for two training splits, a random training split and a media-seperated split. The former follows the standard 5-fold validation framework, the latter seperates training and test split by publishers to test the generalization capabilities. 
+Our [paper](https://aclanthology.org/2021.fever-1.9.pdf) presents results for two training splits, a random training split and a publisher-seperated split. The former follows the standard 5-fold cross validation framework, the latter seperates training and test split by publishers to test generalization capabilities. 
 
-To replicate the media-seperated split, use the following sources for testing and remove them from the training set:
+To replicate the publisher-seperated split, use the following sources for testing and remove them from the training set:
 
 - Sueddeutsche
 - FreieWelt
