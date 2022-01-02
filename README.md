@@ -5,6 +5,7 @@ Detection in German](https://aclanthology.org/2021.fever-1.9.pdf).
 
 For questions, please write an e-mail to justus.mattern@rwth-aachen.de
 
+
 ### Training Splits
 
 Our [paper](https://aclanthology.org/2021.fever-1.9.pdf) presents results for two training splits, a random training split and a media-seperated split. The former follows the standard 5-fold validation framework, the latter seperates training and test split by publishers to test the generalization capabilities. 
@@ -18,6 +19,7 @@ To replicate the media-seperated split, use the following sources for testing an
 - AnonymousNews
 
 
+### Citation
 
 Please use this citation provided by the [ACL Anthology](https://aclanthology.org/2021.fever-1.9/) when working with the dataset:
 
